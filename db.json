@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "email": "pietro@mail.com",
-      "password": "$2a$10$1vKo0MJusbtjd4FMFof9juYe9mGPE9d/YT74CqKUxecZqmru6aULW",
-      "name": "Pietro",
-      "occupation": "Estudante",
+      "email": "petrus@mail.com",
+      "password": "$2a$10$fYM2bBbBaJg7z7MlQPK6C.xKkqdPLL9K6GNHYj19ZnzKtl8QTn1.6",
+      "name": "Petrus",
+      "occupation": "Desenvolvedor",
       "id": 1
     }
   ]
