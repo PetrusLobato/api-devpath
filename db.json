@@ -1,11 +1,7 @@
 {
   "users": [
     {
-      "email": "petrus@mail.com",
-      "password": "$2a$10$fYM2bBbBaJg7z7MlQPK6C.xKkqdPLL9K6GNHYj19ZnzKtl8QTn1.6",
-      "name": "Petrus",
-      "occupation": "Desenvolvedor",
-      "id": 1
+      
     }
   ],
   "posts":[]
